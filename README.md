@@ -20,7 +20,7 @@
 
 ## 🎯 Demo
 
-Lihat demo website [di sini](https://albelelep.github.io/roti-animation) 
+Lihat demo website [di sini](https://albelelep.github.io/roti) 
 
 ## 🖥️ Preview
 
